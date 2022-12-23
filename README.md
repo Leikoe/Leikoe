@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Leikoe
-- 👀 I’m interested in learning any useful language and making stuff fast.
+- 👀 I’m interested in learning any useful language and making fast software.
 - 🌱 I’m currently learning Python, Js, NextJs, Rust, Java, Go 
 - 📫 How to reach me on discord : Leiko#3224
