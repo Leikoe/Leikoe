@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Leikoe
 - 👀 I’m interested in programming accelerators / Machine learning.
 - 🔥 Mainly using Python / C / Rust
-- 📫 Reach me on discord : @leikowo
