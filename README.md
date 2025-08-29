@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Leikoe
-- 👀 I’m interested in programming accelerators / Machine learning.
-- 🔥 Mainly using Python / C / Rust
+Gpu go vroom vroom
+room go 40c/104f
