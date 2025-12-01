@@ -1,2 +1,1 @@
-Gpu go vroom vroom
-room go 40c/104f
+![Gpu go vroom vroom, room go 40c/104f](https://media.discordapp.net/attachments/1390868269015109792/1444848856746561719/image.png?ex=692e33db&is=692ce25b&hm=2bbc4bcbf47a91f324f5a47e4f4b38dffb7e87ea91f944446dc5908a01d962f5&=&format=webp&quality=lossless&width=2124&height=2096)
